@@ -96,19 +96,6 @@
       "room": "test mertebe test otaq 24",
       "isOnVacation": true
     },
-    {
-      "id": "3",
-      "avatar": "https://www.irishlifecorporatebusiness.ie/sites/default/files/slider/employee_2.jpg",
-      "name": "Name Surname Test",
-      "position": "test",
-      "department": "test",
-      "sector": "test sector",
-      "email": "test@tes.com",
-      "phone": "973",
-      "mobile": "055 345 14 64",
-      "room": "test mertebe test otaq 23",
-      "isOnVacation": true
-    }
   ],
   "documentFolders": [
     {
@@ -152,16 +139,6 @@
       "id": "2",
       "title": "Insan Resurslari Senedleri",
       "fileCount": 32
-    },
-    {
-      "id": "3",
-      "title": "Insan Resurslari Senedleri",
-      "fileCount": 23
-    },
-    {
-      "id": "4",
-      "title": "Insan Resurslari Senedleri",
-      "fileCount": 78
     }
   ],
   "docFoldersTest": [
