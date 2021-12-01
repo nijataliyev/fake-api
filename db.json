@@ -11,6 +11,15 @@
     },
     {
       "id": 2,
+      "fullname": "Əliyeva Nigar Osman",
+      "image": "https://st.focusedcollection.com/13873228/i/1800/focused_218688664-stock-photo-young-woman-working-modern-office.jpg",
+      "isReading": true,
+      "date": "21.03.2021",
+      "text": "Ad günün mübarək",
+      "typeMessage": "birthday"
+    },
+    {
+      "id": 3,
       "fullname": "Şifrə yenilənməsi",
       "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Settings_%28iOS%29.png",
       "isReading": true,
@@ -19,10 +28,19 @@
       "typeMessage": "settings"
     },
     {
-      "id": 3,
+      "id": 4,
       "fullname": "Daxili elanlar və xəbərlər",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/BBC_News_2019.svg/1200px-BBC_News_2019.svg.png",
       "isReading": false,
+      "date": "21.03.2021",
+      "text": "Nəqliyyat, Rabitə və Yüksək Texnologiyalar Nazirliyi (NRYTN) tərəfindən elan edilən təqaüd proqramına “Code Academy” də qoşuldu. Bununla da layihəyə qoşulan tərəfdaşların sayı “Code and More”, İsrail – Azərbaycan Təlim Mərkəzi, “Tech Academy” və “İKT LAB”la birlikdə beşə çatdı.   \n\nTəqaüd proqramı çərçivəsində “Code Academy”də “Microsoft” təməlli və “Front-end” proqramlaşdırma, eləcə də “UI/UX” dizayn üzrə bilik və bacarıqlara yiyələnmək mümkündür. Bu istiqamətlər üzrə peşə sahibi olmaq istəyən tələbələr və ali təhsil müəssisələrini bitirən şəxslər proqramdan yararlana bilərlər.",
+      "typeMessage": "news"
+    },
+    {
+      "id": 5,
+      "fullname": "Daxili elanlar və xəbərlər",
+      "image": "https://previews.123rf.com/images/alhovik/alhovik1709/alhovik170900028/86470277-breaking-news-background-world-global-tv-news-banner-design.jpg",
+      "isReading": true,
       "date": "21.03.2021",
       "text": "Nəqliyyat, Rabitə və Yüksək Texnologiyalar Nazirliyi (NRYTN) tərəfindən elan edilən təqaüd proqramına “Code Academy” də qoşuldu. Bununla da layihəyə qoşulan tərəfdaşların sayı “Code and More”, İsrail – Azərbaycan Təlim Mərkəzi, “Tech Academy” və “İKT LAB”la birlikdə beşə çatdı.   \n\nTəqaüd proqramı çərçivəsində “Code Academy”də “Microsoft” təməlli və “Front-end” proqramlaşdırma, eləcə də “UI/UX” dizayn üzrə bilik və bacarıqlara yiyələnmək mümkündür. Bu istiqamətlər üzrə peşə sahibi olmaq istəyən tələbələr və ali təhsil müəssisələrini bitirən şəxslər proqramdan yararlana bilərlər.",
       "typeMessage": "news"
@@ -95,6 +113,58 @@
       "mobile": "055 345 14 64",
       "room": "test mertebe test otaq 24",
       "isOnVacation": true
+    },
+    {
+      "id": "3",
+      "avatar": "https://www.irishlifecorporatebusiness.ie/sites/default/files/slider/employee_2.jpg",
+      "name": "Name Surname Test",
+      "position": "test",
+      "department": "test",
+      "sector": "test sector",
+      "email": "test@tes.com",
+      "phone": "973",
+      "mobile": "055 345 14 64",
+      "room": "test mertebe test otaq 23",
+      "isOnVacation": true
+    },
+    {
+      "id": "4",
+      "avatar": "https://www.irishlifecorporatebusiness.ie/sites/default/files/slider/employee_2.jpg",
+      "name": "Name Surname Test",
+      "position": "test",
+      "department": "test",
+      "sector": "test sector",
+      "email": "test@tes.com",
+      "phone": "973",
+      "mobile": "055 345 14 64",
+      "room": "test mertebe test otaq 23",
+      "isOnVacation": true
+    },
+    {
+      "id": "5",
+      "avatar": "https://www.irishlifecorporatebusiness.ie/sites/default/files/slider/employee_2.jpg",
+      "name": "Name Surname Test",
+      "position": "test",
+      "department": "test",
+      "sector": "test sector",
+      "email": "test@tes.com",
+      "phone": "973",
+      "mobile": "055 345 14 64",
+      "room": "test mertebe test otaq 23",
+      "isOnVacation": true
+    },
+    {
+      "id": "6",
+      "avatar": "https://www.irishlifecorporatebusiness.ie/sites/default/files/slider/employee_2.jpg",
+      "name": "Name Surname Test",
+      "position": "test",
+      "department": "test",
+      "sector": "test sector",
+      "email": "test@tes.com",
+      "phone": "973",
+      "mobile": "055 345 14 64",
+      "room": "test mertebe test otaq 23",
+      "isOnVacation": true
     }
   ],
   "documentFolders": [
@@ -139,6 +209,16 @@
       "id": "2",
       "title": "Insan Resurslari Senedleri",
       "fileCount": 32
+    },
+    {
+      "id": "3",
+      "title": "Insan Resurslari Senedleri",
+      "fileCount": 23
+    },
+    {
+      "id": "4",
+      "title": "Insan Resurslari Senedleri",
+      "fileCount": 78
     }
   ],
   "docFoldersTest": [
