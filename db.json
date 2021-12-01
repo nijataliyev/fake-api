@@ -117,45 +117,6 @@
       "mobile": "055 345 14 64",
       "room": "test mertebe test otaq 23",
       "isOnVacation": true
-    },
-    {
-      "id": "4",
-      "avatar": "https://www.irishlifecorporatebusiness.ie/sites/default/files/slider/employee_2.jpg",
-      "name": "Name Surname Test",
-      "position": "test",
-      "department": "test",
-      "sector": "test sector",
-      "email": "test@tes.com",
-      "phone": "973",
-      "mobile": "055 345 14 64",
-      "room": "test mertebe test otaq 23",
-      "isOnVacation": true
-    },
-    {
-      "id": "5",
-      "avatar": "https://www.irishlifecorporatebusiness.ie/sites/default/files/slider/employee_2.jpg",
-      "name": "Name Surname Test",
-      "position": "test",
-      "department": "test",
-      "sector": "test sector",
-      "email": "test@tes.com",
-      "phone": "973",
-      "mobile": "055 345 14 64",
-      "room": "test mertebe test otaq 23",
-      "isOnVacation": true
-    },
-    {
-      "id": "6",
-      "avatar": "https://www.irishlifecorporatebusiness.ie/sites/default/files/slider/employee_2.jpg",
-      "name": "Name Surname Test",
-      "position": "test",
-      "department": "test",
-      "sector": "test sector",
-      "email": "test@tes.com",
-      "phone": "973",
-      "mobile": "055 345 14 64",
-      "room": "test mertebe test otaq 23",
-      "isOnVacation": true
     }
   ],
   "documentFolders": [
