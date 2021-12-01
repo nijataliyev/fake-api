@@ -11,15 +11,6 @@
     },
     {
       "id": 2,
-      "fullname": "Əliyeva Nigar Osman",
-      "image": "https://st.focusedcollection.com/13873228/i/1800/focused_218688664-stock-photo-young-woman-working-modern-office.jpg",
-      "isReading": true,
-      "date": "21.03.2021",
-      "text": "Ad günün mübarək",
-      "typeMessage": "birthday"
-    },
-    {
-      "id": 3,
       "fullname": "Şifrə yenilənməsi",
       "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Settings_%28iOS%29.png",
       "isReading": true,
@@ -28,7 +19,7 @@
       "typeMessage": "settings"
     },
     {
-      "id": 4,
+      "id": 3,
       "fullname": "Daxili elanlar və xəbərlər",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/BBC_News_2019.svg/1200px-BBC_News_2019.svg.png",
       "isReading": false,
@@ -37,7 +28,7 @@
       "typeMessage": "news"
     },
     {
-      "id": 5,
+      "id": 4,
       "fullname": "Daxili elanlar və xəbərlər",
       "image": "https://previews.123rf.com/images/alhovik/alhovik1709/alhovik170900028/86470277-breaking-news-background-world-global-tv-news-banner-design.jpg",
       "isReading": true,
