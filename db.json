@@ -252,5 +252,39 @@
       "date": "21.02.2021",
       "owner": "Test owner"
     }
+  ],
+  "calendarEvents": [
+    {
+      "id": "1",
+      "day": "15",
+      "month": "12",
+      "isVacation": true,
+      "event": [
+        {
+          "type": "holiday",
+          "title": "Holiday"
+        },
+        {
+          "type": "mourning",
+          "title": "Mourning"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "day": "16",
+      "month": "12",
+      "isVacation": false,
+      "event": [
+        {
+          "type": "holiday",
+          "title": "Holiday"
+        },
+        {
+          "type": "mourning",
+          "title": "Mourning"
+        }
+      ]
+    }
   ]
 }
